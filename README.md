@@ -12,5 +12,5 @@ MyBike is a modern landing page for a company specializing in bicycle sales. The
 The project is built using BEM methodology, which helps maintain a clear hierarchy of components, making the project easier to support and expand.
 
 ## Useful links
-- [DEMO LINK]()
+- [DEMO LINK](https://yuron-maker.github.io/MyBike_landing/)
 - [DESIGN LINK](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=6FlnStwigWIdoL8w-0)
