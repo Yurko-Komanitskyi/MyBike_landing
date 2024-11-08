@@ -14,3 +14,12 @@ The project is built using BEM methodology, which helps maintain a clear hierarc
 ## Useful links
 - [DEMO LINK](https://Yurko-Komanitskyi.github.io/MyBike_landing/)
 - [DESIGN LINK](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=6FlnStwigWIdoL8w-0)
+
+## Getting Started
+To set up and run the project locally, follow these steps:
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies by running:
+ - npm install
+4. Start the project:
+ - npm start
